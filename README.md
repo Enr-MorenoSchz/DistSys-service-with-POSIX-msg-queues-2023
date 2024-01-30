@@ -1,4 +1,4 @@
-# SSDD_ejev1
+# SSDD_Distributed_system_POSIX_msg_queues
 [3rd University Course] 1st Practice from the Distributed Systems subject re-uploaded.
 
 Co-author: @molinal02
